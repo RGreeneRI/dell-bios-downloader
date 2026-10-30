@@ -1,5 +1,5 @@
 # dell-bios-downloader
-Python script to download the latest BIOS update for models listed in "models.txt".  Requires the "cabextract" package.
+Python script to download the latest BIOS update for models listed in "models.txt", examples included.  Requires the "cabextract" package.
 
 <code>
 usage: dell-bios-downloader.py [-h] [--list-models] [--filter FILTER] [--check-only] [--models-file MODELS_FILE]
