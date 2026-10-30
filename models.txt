@@ -1,0 +1,19 @@
+
+# Dell models to search for
+
+5420
+Latitude 5430
+Latitude 5440
+Latitude 5450
+Latitude 5530
+Latitude 5540
+Latitude 5550
+7420
+Latitude 7430
+Latitude 7440
+Latitude 7450
+Latitude 5430 Rugged
+Dell Pro 14 Plus PB14250
+Dell Pro 16 Plus PB16250
+Dell Pro Rugged 14 RB14250
+7210 2-in-1
